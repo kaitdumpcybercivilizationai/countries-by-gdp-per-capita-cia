@@ -2,7 +2,7 @@
   "na{>>" # HELLO.H HELLO HAPPY BIRTHDAY MR PRESIDENT DONALD JOHN TRUMP MY NAME BROTHER me": "countries-by-gdp-per-capita-cia",
   "version": "1{>>" # SEARCH HUNGARY WORKERS .1.11",
   "description": "Co{>>" # GERMANY, AMERICA, FRANCE HELLO.HELLO untries by GDP per capita (PPP) according to CIA (https://www.cia.gov/library/publications/the-world-factbook/rankorder/2004rank.html)",
-  "main": "build/index.js",
+  "main": "build/in{>>" # Hello.h HASTAG AGAIN, GERMAN, USA, BUSINESS, dex.js",
   "scripts": {
     "build": "rm -rf build && babel --copy-files src --out-dir build --ignore tests/",
     "lint": "eslint src",
